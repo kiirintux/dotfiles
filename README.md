@@ -6,3 +6,11 @@ Kumpulan dot fileku
 
 :: ump9
 <img src="https://raw.githubusercontent.com/kiirintux/dotfiles/master/ump9/2018-06-17-224041_1366x768_scrot.png"/>
+gtk : numix dark
+icons : papirus
+
+
+:: mikasa
+<img src="https://raw.githubusercontent.com/kiirintux/dotfiles/master/mikasa/2018-06-18-013310_1366x768_scrot.png"/>
+gtk : vimix light
+icons : papirus
